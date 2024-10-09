@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110037213358",
+    "project_id": "learningfirebase-1262f",
+    "storage_bucket": "learningfirebase-1262f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110037213358:android:021ee32e3c5a1a0f2bcd3f",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTuffrVXSBtef9ibkP8mLC6oFpdw-pK-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
